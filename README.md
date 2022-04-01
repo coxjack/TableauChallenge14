@@ -10,6 +10,8 @@ Challenge 14 for Butler Data Science
 * Visualizations
 	- The data was cut in different ways to show the length of time that bikes are checked out for all riders and genders, show the number of bike trips for all riders and genders for each hour of each day of the week, show the number of bike trips for each type of user and gender for each day of the week and where the most popular areas where rides took place.
 
+[link to Tableau Story](https://public.tableau.com/app/profile/jack.cox/viz/NYCCitibikeAnalysis_16488341887710/NYCCitibikeAnalysis?publish=yes "link to Tableau Story")
+
 * Checkout Times for Users
 	- The peak of duration of rides 5 minutes, most users take bikes for short-medium trips.
 
